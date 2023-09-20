@@ -58,6 +58,7 @@ form > input[type="submit"] {
   border-radius: 5px;
   border-top-right-radius: 0;
   border-top-left-radius: 0;
+  cursor: pointer;
 }
 #scoreContainer {
   font-size: 50px;
